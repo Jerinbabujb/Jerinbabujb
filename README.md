@@ -44,7 +44,7 @@
 
 ### 📈 GitHub Stats
 
-![Jerin's GitHub stats](https://github-readme-stats.shion.dev/api?username=Jerinbabujb&show_icons=true&theme=tokyonight)
+![Jerin's GitHub stats](https://github-readme-stats.shion.dev/api?username=Jerinbabujb&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Jerinbabujb&layout=compact)
 
 ---
